@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\bin\Debug\Guia #2 ejercicio 2.exe.config
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\bin\Debug\Guia #2 ejercicio 2.exe
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\bin\Debug\Guia #2 ejercicio 2.pdb
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\obj\Debug\Guia #2 ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\obj\Debug\Guia__2_ejercicio_2.Form1.resources
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\obj\Debug\Guia__2_ejercicio_2.Properties.Resources.resources
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\obj\Debug\Guia #2 ejercicio 2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\obj\Debug\Guia #2 ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\obj\Debug\Guia #2 ejercicio 2.exe
+C:\Users\DELL\source\repos\Guia #2 ejercicio 2\Guia #2 ejercicio 2\obj\Debug\Guia #2 ejercicio 2.pdb
